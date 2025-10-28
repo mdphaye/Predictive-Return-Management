@@ -4,7 +4,7 @@ A lightweight ML-powered app that predicts the likelihood of product returns bas
 
 ### Live Demo
 (https://predictive-return-management-eduwdwfmqi4jn3axsdrbaq.streamlit.app/)
-### ⚙️ Tech Stack
+### Tech Stack
 - Python (Pandas, Scikit-learn)
 - Random Forest Classifier
 - Streamlit (for interactive dashboard)
